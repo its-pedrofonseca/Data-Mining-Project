@@ -1,0 +1,16 @@
+##Value 
+Income
+Whealth1
+
+Neighborhood census
+
+IC4
+
+MAXRAMNT
+MINRAMNT
+RAMNTALL
+LASTGIFT
+AVGGIFT	
+NUMPROM
+CARDPM12
+TIMELAG
